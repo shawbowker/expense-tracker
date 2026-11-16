@@ -1,0 +1,36 @@
+h1,
+h2 {
+  text-align: center;
+}
+
+body {
+  background-color: rgb(27, 27, 27);
+}
+
+.add-expense-btn {
+  display: block;
+}
+
+.type-menu {
+  text-align: center;
+}
+
+.input-field {
+  max-width: 300px;
+}
+
+#expense-view {
+  border: 2px solid white;
+  max-width: 700px;
+  border-radius: 10px;
+}
+
+.new-expense {
+  border-bottom: 1px solid grey;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.expense-titles {
+  max-width: 700px;
+}
